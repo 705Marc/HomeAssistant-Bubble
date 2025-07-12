@@ -1,5 +1,5 @@
 # Bubble
-## Forked from [Cloos](https://github.com/cloos/bubble)
+## Forked from [Clooos](https://github.com/clooos/bubble)
 A dark minimalist theme with a mobile first approach for Home Assistant
 
 [![Stars](https://img.shields.io/github/stars/clooos/Bubble)](#) [![Last commit](https://img.shields.io/github/last-commit/clooos/Bubble)](#) [![Reddit Profile](https://img.shields.io/badge/Reddit-My%20stuff-orange?logo=reddit)](https://www.reddit.com/user/Clooooos/submitted/) [![Buy me a beer](https://img.shields.io/badge/Buy%20me%20a-beer-yellow?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/clooos)
